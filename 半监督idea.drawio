@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:06:54.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zeIBUa2DkY86UjpzPXBZ" version="23.0.1" type="github">
+  <diagram name="第 1 页" id="_NEa35Ol8yYJomcQQ9j2">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-1" target="0mg0Z0cHZFvOnGNr837R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-1" target="0mg0Z0cHZFvOnGNr837R-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-1" value="有标签图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-2" target="0mg0Z0cHZFvOnGNr837R-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-2" target="0mg0Z0cHZFvOnGNr837R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="570" />
+              <mxPoint x="270" y="570" />
+              <mxPoint x="270" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-2" value="无标签图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-3" target="0mg0Z0cHZFvOnGNr837R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-3" target="0mg0Z0cHZFvOnGNr837R-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-30" value="EMA Update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0mg0Z0cHZFvOnGNr837R-29">
+          <mxGeometry x="0.0182" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-3" target="0mg0Z0cHZFvOnGNr837R-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="485" />
+              <mxPoint x="460" y="530" />
+              <mxPoint x="720" y="530" />
+              <mxPoint x="720" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-3" value="大模型Encoder+微调技术adaptor（学生网络）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-5" value="1.出发点是利用视觉大模型赋能医学这种特定场景的分割子任务，Diffusion和SAM做有监督很多任务做过，但是这三者结合做半监督应该没什么工作做过&lt;br&gt;2.Diffusion纯做分割效果不佳，但是它的不确定性恰恰可以生成多张分割图，得到方差，我们认为是较难学习的，作为损失函数&lt;br&gt;3.利用SAM或者Clip等大模型学习到的特征在特定场景做微调适配，这样随着视觉foundation模型的升级，我们的模型同样也能升级" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-8" target="0mg0Z0cHZFvOnGNr837R-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-8" value="Diffusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-11" target="0mg0Z0cHZFvOnGNr837R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-16" value="对于方差大的像素，增加对应权重，通过损失函数让模型倾向学这些难的特征" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0mg0Z0cHZFvOnGNr837R-15">
+          <mxGeometry x="0.2615" y="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-11" value="分割方差图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-13" value="有标签损失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-19" target="0mg0Z0cHZFvOnGNr837R-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-19" target="0mg0Z0cHZFvOnGNr837R-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="220" />
+              <mxPoint x="640" y="220" />
+              <mxPoint x="640" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-19" value="有标签标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-20" target="0mg0Z0cHZFvOnGNr837R-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-20" target="0mg0Z0cHZFvOnGNr837R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-20" value="有标签数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-27" target="0mg0Z0cHZFvOnGNr837R-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-39" value="//" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0mg0Z0cHZFvOnGNr837R-32">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-27" value="教师网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0mg0Z0cHZFvOnGNr837R-33" target="0mg0Z0cHZFvOnGNr837R-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-33" value="伪标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-36" value="无标签损失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="740" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
