@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T03:08:35.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DiOc7nh3BXb_eC9Ib8lj" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:12:50.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gBo4r9MNndHNQCffBO0g" version="23.0.1" type="github">
   <diagram name="第 1 页" id="_NEa35Ol8yYJomcQQ9j2">
     <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mg0Z0cHZFvOnGNr837R-3" value="大模型Encoder+微调技术adaptor（学生网络）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0mg0Z0cHZFvOnGNr837R-3" value="大模型SAM+微调技术adaptor（学生网络）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0mg0Z0cHZFvOnGNr837R-5" value="1.出发点是利用视觉大模型赋能医学这种特定场景的分割子任务，Diffusion和SAM做有监督很多任务做过，但是这三者结合做半监督应该没什么工作做过&lt;br&gt;2.Diffusion纯做分割效果不佳，但是它的不确定性恰恰可以生成多张分割图，得到方差，我们认为是较难学习的，作为损失函数&lt;br&gt;3.利用SAM或者Clip等大模型学习到的特征在特定场景做微调适配，这样随着视觉foundation模型的升级，我们的模型同样也能升级" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
